@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+      "paths": {
+          "#root/*": ["./root/*"],
+          "#controllers": ["./src/controllers/index.js"],
+          "#routes": ["./src/routes/index.js"],
+      }
+  }
+}
