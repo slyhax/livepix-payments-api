@@ -5,7 +5,7 @@ export const routerUrlPayment = express.Router();
 
 routerUrlPayment.get('/:token/:value', async (req, res) => {
   const { token, value } = req.params;
-
+  // https://github.com/haxbash/livepix-payments-api.git
   try {
     const url = await getUrlPayment(value, token)
     res.json({
