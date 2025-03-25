@@ -14,7 +14,7 @@ Antes de começar, você precisará:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/voidhax/livepix-payments-api.git
+git clone https://github.com/slyhax/livepix-payments-api.git
 ```
 
 ### 2. Instalar as Dependências
